@@ -1,0 +1,13 @@
+com\example\Authentication\services\UserService.class
+com\example\Authentication\entities\User.class
+com\example\Authentication\entities\GeneratedValue.class
+javax\persistence\GenerationType.class
+com\example\Authentication\repositories\UserRepository.class
+javax\persistence\Entity.class
+com\example\Authentication\entities\Id.class
+com\example\Authentication\AuthenticationApplication.class
+com\example\Authentication\entities\GenerationType.class
+javax\persistence\GeneratedValue.class
+com\example\Authentication\controllers\LoginController.class
+com\example\Authentication\exceptions\UserNotFoundException.class
+javax\persistence\Id.class
